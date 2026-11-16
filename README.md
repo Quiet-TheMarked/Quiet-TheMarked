@@ -1,57 +1,73 @@
 <div align="center">
 
-<img src="assets/banner.jpg" alt="Crimson manuscript engraving of an occult scholar at a computer, surrounded by a codex, skull, arcane marginalia, and a terminal." width="100%" />
+<img src="assets/manuscript/title.svg" alt="Quiet the Marked — The Digital Scriptorium" width="100%" />
 
-<br>
+**Software engineering · Cybersecurity · Applied intelligence · Automation**
 
-<img src="assets/wordmark.png" alt="QUIET · THE MARKED — A digital scriptorium" width="90%" />
+<sub>Crafting practical systems. Investigating the machinery beneath appearances.</sub>
 
-<br>
-
-*Software engineering · Cybersecurity · Applied intelligence · Automation*
-
-<img src="assets/divider.png" alt="" width="68%" />
+<img src="assets/manuscript/divider.svg" width="75%" alt="" />
 
 </div>
 
 <table>
 <tr>
-<td width="33%" align="center">
-<strong>THE CRAFT</strong><br><br>
-Software, tools, and systems built to be used.
+<td width="27%" align="center" valign="middle">
+<img src="assets/avatar.png" alt="Ornate scholar emblem in crimson and ivory" width="150" />
 </td>
-<td width="33%" align="center">
-<strong>THE INQUIRY</strong><br><br>
-Security, research, intelligence, and the structures beneath appearances.
-</td>
-<td width="33%" align="center">
-<strong>THE METHOD</strong><br><br>
-Observe. Experiment. Build. Refine.
+<td valign="middle">
+
+### Folio I · The Author
+
+Developer and researcher working across software engineering, cybersecurity, autonomous systems, and applied intelligence. The emphasis is on **usable results**, deliberate constraints, and technical investigation.
+
+`Linux` · `Python` · `TypeScript` · `Cybersecurity` · `AI`
+
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-<img src="assets/folio-work.png" alt="THE WORK" width="68%" />
-
+<img src="assets/manuscript/works.svg" width="100%" alt="Folio II — The Works" />
 </div>
 
-A working collection of experiments and software, with particular interest in:
+| Manuscript | Discipline | Subject |
+| :--- | :--- | :--- |
+| **RoleProwl** | Software · Automation | Job-search and application assistance |
+| **Weave** | Intelligence · Research | Curated information and discovery |
+| **AED** | Applied intelligence | Economic information discovery and experimentation |
+| **Security investigations** | Cybersecurity · OSINT | Evidence-driven technical investigations |
 
-- **Systems and security** — cybersecurity, OSINT, and technical investigation.
-- **Applied AI** — useful assistants, research tooling, and local inference.
-- **Automation** — repeatable workflows and software that reduces manual work.
-- **Engineering** — Python, TypeScript, Linux, and full-stack applications.
+<sub>These are areas of ongoing work. Some projects or experiments are not yet public.</sub>
 
 <div align="center">
 
-<img src="assets/divider.png" alt="" width="68%" />
+**[✦ Browse public repositories ✦](https://github.com/Quiet-TheMarked?tab=repositories)**
 
-<sub>THE MANUSCRIPT IS NEVER FINISHED.</sub>
+<img src="assets/manuscript/divider.svg" width="75%" alt="" />
+<img src="assets/manuscript/instruments.svg" width="100%" alt="Folio III — The Instruments" />
+</div>
 
-<br><br>
+```text
+$ cat /etc/quiet-themarked
+operator : quiet-themarked
+practice : engineering / security / intelligence
+methods  : research → build → verify → ship
+terrain  : linux / web / automation / local AI
+```
 
-<a href="https://github.com/Quiet-TheMarked?tab=repositories">Browse repositories</a>
+<details>
+<summary><b>✧ Open the marginalia — areas of inquiry</b></summary>
 
+- **Systems:** Software architecture, operating systems, and working tools.
+- **Security:** Cybersecurity, OSINT, and technical investigation.
+- **Intelligence:** Research, source evaluation, and useful discovery.
+- **Automation:** Purpose-built software, deliberate constraints, and autonomous workflows.
+
+</details>
+
+<br>
+
+<div align="center">
+<img src="assets/manuscript/colophon.svg" width="100%" alt="Finis folii — The manuscript is never finished" />
 </div>
