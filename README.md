@@ -13,7 +13,7 @@
 <table>
 <tr>
 <td width="27%" align="center" valign="middle">
-<img src="assets/avatar.png" alt="Ornate scholar emblem in crimson and ivory" width="150" />
+<img src="assets/author.jpg" alt="Ornate scholar emblem in crimson and ivory" width="150" />
 </td>
 <td valign="middle">
 
